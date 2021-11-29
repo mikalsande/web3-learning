@@ -25,6 +25,7 @@ Technologies used so far in a somewhat particular order.
 ## Ideas for improvement and learning
 
 * Make the fronten prettier.
+* Use [ethers](https://docs.ethers.io/v5/) instead of web3js (makes ENS using easier)
 * Implement [ENS](https://ens.domains/) support to be able to look up accounts via their ENS names, eg. `alice.eth`.
 * Make it possible to use a local ethereum provider and use that by default if available.
 * Make it detect Metamask and use that if available.
