@@ -6,15 +6,18 @@ This repo is here to collect and document learning resources, code, commands and
 Different ways to think about and frame web3. Might not all be the original authors of the content, the important part is the ideas them selves. The web is full of buzzwords and web3 has lots of it, that is why thinking about the ideas and philosophies helps :)
 
 [@cdixon](https://twitter.com/cdixon/status/1459036992050716697)
+```
 web1 read
 web2 read & write
-web3 read, write & own 
+web3 read, write & own
+```
 
 [@davealevine](https://twitter.com/davealevine/status/1459038076861308939)
+```
 web 1: consume. 
 web 2: consume. contribute. 
-web 3: consume. contribute. control. 
-
+web 3: consume. contribute. control.
+```
 
 ## Technologies involved
 
